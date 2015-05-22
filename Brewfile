@@ -4,6 +4,9 @@
 ## caskroom/cask
 tap caskroom/cask
 brew brew-cask
+cask adobe-air
+cask adobe-dng-converter
+cask alfred
 cask amazon-cloud-drive
 cask android-file-transfer
 cask appcleaner
@@ -11,7 +14,9 @@ cask atom
 cask audio-hijack
 cask bittorrent-sync
 cask coteditor
+cask dropbox
 cask fission
+cask flash-player
 cask flickr-uploadr
 cask flip4mac
 cask github
@@ -37,10 +42,12 @@ cask opera
 cask picasa
 cask scrivener
 cask send-to-kindle
+cask silverlight
 cask skype
 cask transmission
 cask transmit
 cask vlc
+cask vmware-fusion
 cask xld
 cask xquartz
 
