@@ -23,7 +23,7 @@ cask github
 cask google-chrome
 cask google-drive
 cask google-japanese-ime
-cask google-plus-auto-backup
+cask google-photos-backup
 cask google-web-designer
 cask handbrake
 cask ibank
