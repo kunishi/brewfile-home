@@ -129,6 +129,7 @@ brew sqlite
 brew t1utils
 brew texi2html
 brew texinfo
+brew vim
 brew wget
 brew x264
 brew xvid
