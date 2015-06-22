@@ -29,6 +29,7 @@ cask ibank
 cask igetter
 cask imagealpha
 cask imageoptim
+cask karabiner
 cask libreoffice
 cask lilypond
 cask linein
