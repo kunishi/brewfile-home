@@ -35,6 +35,7 @@ cask lilypond
 cask linein
 cask miro-video-converter
 cask mpeg-streamclip
+cask musescore
 cask omnigraffle
 cask omnioutliner
 cask omnipresence
