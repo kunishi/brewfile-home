@@ -20,6 +20,7 @@ cask flash-player
 cask flickr-uploadr
 cask flip4mac
 cask github
+cask gmvault
 cask google-drive
 cask google-japanese-ime
 cask google-photos-backup
