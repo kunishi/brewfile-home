@@ -19,6 +19,7 @@ cask fission
 cask flash-player
 cask flickr-uploadr
 cask flip4mac
+cask github-desktop
 cask gmvault
 cask google-drive
 cask google-japanese-ime
@@ -140,11 +141,6 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask github (!)
 
 # App Store applications
 appstore 1Password
