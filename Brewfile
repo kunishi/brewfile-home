@@ -49,8 +49,8 @@ cask silverlight
 cask skype
 cask transmission
 cask transmit
+cask virtualbox
 cask vlc
-cask vmware-fusion
 cask xld
 cask xquartz
 
@@ -154,7 +154,6 @@ appstore Growl
 appstore Hype
 appstore iBooks Author
 appstore iMovie
-appstore iPhoto
 appstore Keynote
 appstore Kindle
 appstore LINE
@@ -162,11 +161,13 @@ appstore MARKETSPEED
 appstore MindNode Pro
 appstore MultiMarkdown Composer
 appstore Numbers
+appstore OmniFocus
 appstore OneDrive
 appstore Pages
 appstore Pixelmator
 appstore Pocket
 appstore Skitch
+appstore SoundCloud
 appstore StuffIt Expander
 appstore Twitter
 appstore Xcode
