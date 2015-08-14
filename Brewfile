@@ -58,7 +58,7 @@ cask xquartz
 ## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
-cask sublime-text3
+cask sublime-text-dev
 
 ## homebrew/boneyard
 tap homebrew/boneyard
