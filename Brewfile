@@ -14,6 +14,7 @@ cask atom
 cask audio-hijack
 cask bittorrent-sync
 cask coteditor
+cask dayone-cli
 cask dropbox
 cask fission
 cask flash-player
@@ -154,6 +155,7 @@ appstore Growl
 appstore Hype
 appstore iBooks Author
 appstore iMovie
+appstore iPhoto
 appstore Keynote
 appstore Kindle
 appstore LINE
