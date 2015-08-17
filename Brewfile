@@ -52,7 +52,6 @@ cask transmission
 cask transmit
 cask virtualbox
 cask vlc
-cask vmware-fusion
 cask xld
 cask xquartz
 
