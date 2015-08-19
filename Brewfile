@@ -13,6 +13,7 @@ cask appcleaner
 cask atom
 cask audio-hijack
 cask bittorrent-sync
+cask chefdk
 cask coteditor
 cask dayone-cli
 cask dropbox
