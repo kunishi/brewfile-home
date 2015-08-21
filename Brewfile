@@ -77,6 +77,7 @@ brew clisp
 brew cloog
 brew czmq
 brew elixir
+brew erlang
 brew faac
 brew ffmpeg
 brew fontconfig
@@ -136,8 +137,10 @@ brew sqlite
 brew t1utils
 brew texi2html
 brew texinfo
+brew unixodbc
 brew vim
 brew wget
+brew wxmac
 brew x264
 brew xvid
 brew xz
