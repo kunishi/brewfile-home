@@ -76,6 +76,7 @@ brew cairo
 brew clisp
 brew cloog
 brew czmq
+brew elixir
 brew faac
 brew ffmpeg
 brew fontconfig
