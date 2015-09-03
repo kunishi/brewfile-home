@@ -23,6 +23,7 @@ cask flickr-uploadr
 cask flip4mac
 cask github-desktop
 cask gmvault
+cask google-chrome
 cask google-drive
 cask google-japanese-ime
 cask google-photos-backup
@@ -51,6 +52,7 @@ cask silverlight
 cask skype
 cask transmission
 cask transmit
+cask vagrant
 cask virtualbox
 cask vlc
 cask xld
