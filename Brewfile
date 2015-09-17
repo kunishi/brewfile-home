@@ -29,6 +29,7 @@ cask google-japanese-ime
 cask google-photos-backup
 cask google-web-designer
 cask handbrake
+cask haskell-platform
 cask ibank
 cask igetter
 cask imagealpha
@@ -89,7 +90,6 @@ brew gauche
 brew gcc
 brew gdbm
 brew gettext
-brew ghc
 brew git
 brew git-flow
 brew glib
