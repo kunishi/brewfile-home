@@ -49,7 +49,6 @@ cask picasa
 cask scrivener
 cask send-to-kindle
 cask sigil
-cask silverlight
 cask skype
 cask transmission
 cask transmit
