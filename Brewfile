@@ -45,7 +45,6 @@ cask omnigraffle
 cask omnioutliner
 cask omnipresence
 cask opera
-cask picasa
 cask scrivener
 cask send-to-kindle
 cask sigil
