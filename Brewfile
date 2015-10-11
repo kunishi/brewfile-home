@@ -16,7 +16,6 @@ cask bittorrent-sync
 cask chefdk
 cask coteditor
 cask dayone-cli
-cask dropbox
 cask fission
 cask flash-player
 cask flickr-uploadr
