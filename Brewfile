@@ -100,6 +100,7 @@ brew isl
 brew jbig2dec
 brew jpeg
 brew lame
+brew leiningen
 brew libdvdcss
 brew libffi
 brew libmpc
