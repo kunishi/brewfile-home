@@ -71,9 +71,12 @@ tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
+brew aspcud
 brew autoconf
 brew automake
 brew cairo
+brew camlp5
+brew clasp
 brew clisp
 brew cloog
 brew czmq
@@ -93,6 +96,7 @@ brew git-flow
 brew glib
 brew gmp
 brew gobject-introspection
+brew gringo
 brew harfbuzz
 brew hg-flow
 brew icu4c
@@ -121,6 +125,7 @@ brew mhash
 brew mpfr
 brew nkf
 brew node
+brew ocaml
 brew opam
 brew openssl
 brew p7zip
