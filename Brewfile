@@ -121,6 +121,7 @@ brew mhash
 brew mpfr
 brew nkf
 brew node
+brew opam
 brew openssl
 brew p7zip
 brew pango
