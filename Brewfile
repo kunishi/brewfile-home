@@ -181,6 +181,7 @@ appstore Pages
 appstore Pixelmator
 appstore Pocket
 appstore Skitch
+appstore Slack
 appstore SoundCloud
 appstore StuffIt Expander
 appstore Twitter
