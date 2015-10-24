@@ -170,6 +170,7 @@ appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore Kindle
+appstore Kobito
 appstore LINE
 appstore MARKETSPEED
 appstore MindNode Pro
