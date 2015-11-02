@@ -110,6 +110,7 @@ brew libffi
 brew libmpc
 brew libpng
 brew libsigsegv
+brew libsodium
 brew libtiff
 brew libtool
 brew libunistring
