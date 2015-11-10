@@ -166,6 +166,7 @@ appstore Evernote
 appstore GarageBand
 appstore Growl
 appstore Hype
+appstore iA Writer
 appstore iBooks Author
 appstore iMovie
 appstore iPhoto
