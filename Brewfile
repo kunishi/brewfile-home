@@ -54,6 +54,7 @@ cask transmit
 cask vagrant
 cask virtualbox
 cask vlc
+cask wordpresscom
 cask xld
 cask xquartz
 
