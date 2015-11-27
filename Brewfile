@@ -184,6 +184,7 @@ appstore OneDrive
 appstore Pages
 appstore Pixelmator
 appstore Pocket
+appstore ScanSnap Cloud
 appstore Skitch
 appstore Slack
 appstore SoundCloud
