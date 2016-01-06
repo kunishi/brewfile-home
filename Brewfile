@@ -1,7 +1,6 @@
 
 # tap repositories and their packages
 
-## caskroom/cask
 tap caskroom/cask
 brew brew-cask
 cask adobe-air
@@ -58,20 +57,16 @@ cask wordpresscom
 cask xld
 cask xquartz
 
-## caskroom/fonts
 tap caskroom/fonts
 cask font-source-han-code-jp
 
-## caskroom/versions
 tap caskroom/versions
 cask firefox-ja
 cask sublime-text-dev
 
-## homebrew/boneyard
 tap homebrew/boneyard
 brew git-flow-clone
 
-## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
