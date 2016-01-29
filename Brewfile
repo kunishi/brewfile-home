@@ -29,7 +29,6 @@ cask google-photos-backup
 cask google-web-designer
 cask handbrake
 cask haskell-platform
-cask ibank
 cask igetter
 cask imagealpha
 cask imageoptim
@@ -155,6 +154,11 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
+
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask ibank (!)
 
 # App Store applications
 appstore 1Password
