@@ -11,6 +11,7 @@ cask android-file-transfer
 cask appcleaner
 cask atom
 cask audio-hijack
+cask banktivity
 cask bittorrent-sync
 cask chefdk
 cask coteditor
@@ -154,11 +155,6 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
-
-# Below applications were installed by Cask,
-# but do not have corresponding casks.
-
-#cask ibank (!)
 
 # App Store applications
 appstore 1Password
