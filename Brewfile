@@ -21,6 +21,7 @@ cask fission
 cask flash-player
 cask flickr-uploadr
 cask flip4mac
+cask flux
 cask github-desktop
 cask gmvault
 cask google-chrome
