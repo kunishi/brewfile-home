@@ -26,6 +26,7 @@ cask github-desktop
 cask gmvault
 cask google-chrome
 cask google-drive
+cask google-hangouts
 cask google-japanese-ime
 cask google-photos-backup
 cask google-web-designer
