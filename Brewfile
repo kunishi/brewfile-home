@@ -139,6 +139,9 @@ brew pango
 brew pixman
 brew pkg-config
 brew potrace
+brew pyenv
+brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
 brew python
 brew rbenv
 brew rbenv-bundler
