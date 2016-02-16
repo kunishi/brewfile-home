@@ -16,7 +16,6 @@ cask install audio-hijack #~/Applications/Audio Hijack.app
 cask install bittorrent-sync #~/Applications/BitTorrent Sync.app
 cask install coteditor #~/Applications/CotEditor.app
 cask install dropbox #~/Applications/Dropbox.app
-cask install fission #~/Applications/Fission.app
 cask install flash-player #~/Applications/Flash Player.app
 cask install flickr-uploadr #/Applications/Flickr Uploadr.app
 cask install flip4mac #/Applications/Flip4Mac
