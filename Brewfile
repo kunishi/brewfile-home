@@ -163,3 +163,6 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
+
+# App Store applications
+appstore 1055511498 Day One
