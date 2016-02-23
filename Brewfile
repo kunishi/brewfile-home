@@ -6,6 +6,7 @@ brew mas
 
 tap caskroom/cask
 brew brew-cask
+cask 1password
 cask adobe-air
 cask adobe-dng-converter
 cask alfred
