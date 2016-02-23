@@ -165,4 +165,35 @@ brew youtube-dl
 brew zeromq
 
 # App Store applications
+appstore 408981426 Aperture
+appstore 417602904 CloudApp
+appstore 499340368 Coda 2
 appstore 1055511498 Day One
+appstore 406056744 Evernote
+appstore 682658836 GarageBand
+appstore 467939042 Growl
+appstore 436931759 Hype
+appstore 409183694 Keynote
+appstore 405399194 Kindle
+appstore 896624060 Kobito
+appstore 539883307 LINE
+appstore 946680495 MARKETSPEED
+appstore 402398561 MindNode Pro
+appstore 593294811 MultiMarkdown Composer
+appstore 409203825 Numbers
+appstore 867299399 OmniFocus
+appstore 823766827 OneDrive
+appstore 409201541 Pages
+appstore 407963104 Pixelmator
+appstore 568494494 Pocket
+appstore 1035516352 ScanSnap Cloud
+appstore 425955336 Skitch
+appstore 803453959 Slack
+appstore 412754595 SoundCloud
+appstore 405580712 StuffIt Expander
+appstore 409789998 Twitter
+appstore 497799835 Xcode
+appstore 775737590 iA Writer
+appstore 490152466 iBooks Author
+appstore 408981434 iMovie
+appstore 408981381 iPhoto
