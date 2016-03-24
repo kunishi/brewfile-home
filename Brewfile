@@ -42,6 +42,7 @@ cask karabiner
 cask libreoffice
 cask lilypond
 cask linein
+cask mactex
 cask miro-video-converter
 cask mpeg-streamclip
 cask musescore
