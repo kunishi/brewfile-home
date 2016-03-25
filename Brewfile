@@ -154,6 +154,7 @@ brew ruby-build
 brew smlnj
 brew spawn-fcgi
 brew sqlite
+brew ssh-copy-id
 brew t1utils
 brew texi2html
 brew texinfo
