@@ -43,6 +43,7 @@ cask libreoffice
 cask lilypond
 cask linein
 cask mactex
+cask mendeley-desktop
 cask miro-video-converter
 cask mpeg-streamclip
 cask musescore
