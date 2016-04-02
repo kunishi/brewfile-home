@@ -74,10 +74,7 @@ cask sublime-text-dev
 tap homebrew/boneyard
 brew git-flow-clone
 
-tap rcmdnk/file
-brew brew-file
-
-# Other Homebrew packages
+tap homebrew/core
 brew asciidoc
 brew aspcud
 brew autoconf
@@ -88,9 +85,8 @@ brew clasp
 brew clisp
 brew cloog
 brew czmq
-brew docbook
 brew docbook-xsl
-brew elixir
+brew docbook
 brew erlang
 brew faac
 brew ffmpeg
@@ -101,9 +97,8 @@ brew gauche
 brew gcc
 brew gdbm
 brew gettext
-brew git
 brew git-flow
-brew glib
+brew git
 brew gmp
 brew gobject-introspection
 brew gringo
@@ -133,7 +128,6 @@ brew mcrypt
 brew mercurial
 brew mftrace
 brew mhash
-brew mpfr
 brew nkf
 brew node
 brew ocaml
@@ -144,12 +138,10 @@ brew pango
 brew pixman
 brew pkg-config
 brew potrace
-brew pyenv
 brew pyenv-virtualenv
-brew pyenv-virtualenvwrapper
+brew pyenv
 brew python
 brew rbenv
-brew rbenv-bundler
 brew readline
 brew ruby-build
 brew smlnj
@@ -169,6 +161,16 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
+
+tap rcmdnk/file
+brew brew-file
+
+# Other Homebrew packages
+brew elixir
+brew glib
+brew mpfr
+brew pyenv-virtualenvwrapper
+brew rbenv-bundler
 
 # App Store applications
 appstore 408981426 Aperture
