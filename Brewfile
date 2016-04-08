@@ -84,6 +84,7 @@ brew camlp5
 brew clasp
 brew clisp
 brew cloog
+brew cmake
 brew czmq
 brew docbook-xsl
 brew docbook
@@ -146,6 +147,7 @@ brew readline
 brew ruby-build
 brew smlnj
 brew spawn-fcgi
+brew sphinx-doc
 brew sqlite
 brew ssh-copy-id
 brew t1utils
@@ -161,6 +163,8 @@ brew xz
 brew yasm
 brew youtube-dl
 brew zeromq
+
+tap neovim/neovim
 
 tap rcmdnk/file
 brew brew-file
