@@ -174,7 +174,6 @@ brew elixir
 brew glib
 brew mpfr
 brew pyenv-virtualenvwrapper
-brew rbenv-bundler
 
 # App Store applications
 appstore 408981426 Aperture
