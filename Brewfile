@@ -175,6 +175,11 @@ brew glib
 brew mpfr
 brew pyenv-virtualenvwrapper
 
+# Below applications were installed by Cask,
+# but do not have corresponding casks.
+
+#cask Uninstalling brew-cask... (4 files, 7.9K)
+
 # App Store applications
 appstore 408981426 Aperture
 appstore 417602904 CloudApp
