@@ -78,6 +78,7 @@ brew asciidoc
 brew aspcud
 brew autoconf
 brew automake
+brew bash-completion
 brew cairo
 brew camlp5
 brew clasp
