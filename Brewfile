@@ -80,6 +80,7 @@ brew autoconf
 brew automake
 brew bash-completion
 brew cairo
+brew camlp4
 brew camlp5
 brew clasp
 brew clisp
@@ -132,6 +133,7 @@ brew mhash
 brew nkf
 brew node
 brew ocaml
+brew ocamlbuild
 brew opam
 brew openssl
 brew p7zip
