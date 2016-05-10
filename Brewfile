@@ -89,6 +89,7 @@ brew cmake
 brew czmq
 brew docbook-xsl
 brew docbook
+brew elixir
 brew erlang
 brew faac
 brew ffmpeg
@@ -101,6 +102,7 @@ brew gdbm
 brew gettext
 brew git-flow
 brew git
+brew glib
 brew gmp
 brew gobject-introspection
 brew gringo
@@ -130,6 +132,7 @@ brew mcrypt
 brew mercurial
 brew mftrace
 brew mhash
+brew mpfr
 brew nkf
 brew node
 brew ocaml
@@ -142,6 +145,7 @@ brew pixman
 brew pkg-config
 brew potrace
 brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
 brew pyenv
 brew python
 brew rbenv
@@ -170,12 +174,6 @@ tap neovim/neovim
 
 tap rcmdnk/file
 brew brew-file
-
-# Other Homebrew packages
-brew elixir
-brew glib
-brew mpfr
-brew pyenv-virtualenvwrapper
 
 # App Store applications
 appstore 408981426 Aperture
