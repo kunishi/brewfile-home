@@ -50,6 +50,7 @@ cask omnigraffle
 cask omnioutliner
 cask omnipresence
 cask opera
+cask phoneclean
 cask scrivener
 cask send-to-kindle
 cask sigil
