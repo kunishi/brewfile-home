@@ -101,6 +101,7 @@ brew gauche
 brew gcc
 brew gdbm
 brew gettext
+brew gibo
 brew git-flow
 brew git
 brew glib
